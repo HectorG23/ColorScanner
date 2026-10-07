@@ -9,9 +9,9 @@
 <details open>
 <summary>🖥️ Captura de la aplicación</summary>
 
-La captura está incrustada en [`readme.txt`](readme.txt) como datos de imagen; el proyecto no necesita un archivo de captura separado.
+La captura está disponible en [`assets/screenshot.jpg`](assets/screenshot.jpg) y se muestra aquí:
 
-> Captura incrustada en [`readme.txt`](readme.txt), sin archivo de imagen separado.
+<img src="assets/screenshot.jpg" alt="Interfaz de ColorScanner con lector en vivo y muestras de colores" width="100%">
 
 </details>
 
@@ -144,4 +144,4 @@ Las muestras y puntos del gráfico viven solo mientras la aplicación está abie
 
 ---
 
-**GitHub:** esta versión `README.md` se mostrará en la portada del repositorio. La captura permanece incrustada en `readme.txt` como datos de imagen para respetar el formato solicitado y no añadir un archivo gráfico separado.
+**GitHub:** esta versión `README.md` se mostrará en la portada del repositorio. La captura se carga desde `assets/screenshot.jpg` mediante una etiqueta HTML `<img>` con ruta relativa.
