@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+.mplconfig/
+.piptemp/
+work-*.log
+assets/screenshot.png
